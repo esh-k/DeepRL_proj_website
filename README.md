@@ -95,6 +95,8 @@ Videos of inference:
 ![](./videos/ptm_atari.gif) 
 ![](./videos/ptm_atari_2.gif)
 
+![](./images/ptm_atari_rewards_curve.jpeg)
+
 ## Videos
 ### Pre-Trained models with random shooting
 - LunarLander
