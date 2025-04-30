@@ -69,7 +69,8 @@ Compute loss between $statê_{t+1}$ and actual $state_{t+1}$ using Mean squared
 
 ## Experiments and Videos
 
-Experiments performed using pretrained model and random sampling`
+Experiments performed using pretrained model and random sampling
+
 ### Pendulum
 
 World model loss curves:  
@@ -98,15 +99,14 @@ Videos of inference:
 Reward curve for the inference:  
 ![](./images/ptm_atari_rewards_curve.jpeg)
 
-## Videos
-### Pre-Trained models with random shooting
-- LunarLander
-- Pendulum
-- Atari
+Experiments performed using tdmpc 
+- LunarLander - discrete
+![](./videos/tdmpc_ll_discrete.gif)
+![](./images/tdmpc_ll_discrete_loss_curves.jpeg)
 
-### TD-MPC approach
-- LunarLander
-- Pendulum
+- Pendulum - continuous
+![](./videos/tdmpc_pend_continuous.gif)
+![](./images/tdmpc_pend_loss_curve.png)
 - Atari (with discrete -> continuous modification)
 
 ## Observation and conclusions
