@@ -88,6 +88,13 @@ Videos on pendulum
 
 ### Atari 
 
+Loss curve for training the world and reward models :
+![](./images/ptm_atari_loss_curve.png)
+
+Videos of inference:  
+![](./videos/ptm_atari.gif) 
+![](./videos/ptm_atari_2.gif)
+
 ## Videos
 ### Pre-Trained models with random shooting
 - LunarLander
