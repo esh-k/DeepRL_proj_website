@@ -99,13 +99,24 @@ Videos of inference:
 Reward curve for the inference:  
 ![](./images/ptm_atari_rewards_curve.jpeg)
 
-Experiments performed using tdmpc 
-- LunarLander - discrete
+Experiments performed using tdmpc   
+- LunarLander - discrete 
+
+
+Videos of inference  
 ![](./videos/tdmpc_ll_discrete.gif)
+
+Loss curves  
 ![](./images/tdmpc_ll_discrete_loss_curves.jpeg)
 
 - Pendulum - continuous
+
+
+
+Video of inference  
 ![](./videos/tdmpc_pend_continuous.gif)
+
+Loss curve  
 ![](./images/tdmpc_pend_loss_curve.png)
 - Atari (with discrete -> continuous modification)
 
