@@ -80,7 +80,7 @@ Reward model loss curves:
 
 Videos on pendulum
 
-![[vid-pend-ptm](./videos/ptm_pendulum.mp4)]
+![[vid-pend-ptm](https://raw.githubusercontent.com/gokulkrishna98/DeepRL_proj_website/main/videos/ptm_pendulum.mp4)]
 
 ![[vid-pend-ptm](./videos/ptm_pendulum_2.mp4)]
 
