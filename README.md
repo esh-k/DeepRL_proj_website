@@ -72,10 +72,10 @@ Compute loss between $statê_{t+1}$ and actual $state_{t+1}$ using Mean squared
 Experiments performed using pretrained model and random sampling`
 ### Pendulum
 
-World model loss curves:
+World model loss curves:  
 ![ptm_pend_wm_lc](./images/ptm_pend_world_model_loss_curve.png)
 
-Reward model loss curves:
+Reward model loss curves:  
 ![ptm_pend_rm_lc](./images/ptm_pend_reward_model_loss_curve.png)
 
 Videos on pendulum
